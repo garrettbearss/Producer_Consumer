@@ -53,4 +53,5 @@ Consumer: I have consumed an item
 Consumer: Finished consuming
 
 [1]-  Done                    ./producer
+
 [2]+  Done                    ./consumer
