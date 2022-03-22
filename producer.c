@@ -1,4 +1,4 @@
-// Github Link:
+// Github Link: https://github.com/garrettbearss/Producer_Consumer/blob/main/producer.c
 // Author: Garrett Bearss
 // Date: 3/22/2022
 // producer.c
